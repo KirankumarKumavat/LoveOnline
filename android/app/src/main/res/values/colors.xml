@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#ffffff</color>
+    <color name="colorAccent">#7B67ED</color>
+    <color name="mycustomcolor">#F26A6B</color>
+</resources>

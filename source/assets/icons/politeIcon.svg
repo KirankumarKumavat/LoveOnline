@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.222" height="21.996" viewBox="0 0 25.222 21.996">
+  <g id="Polite-icon" transform="translate(0 -32.744)">
+    <g id="Group_9542" data-name="Group 9542" transform="translate(0 32.744)">
+      <path id="Path_9348" data-name="Path 9348" d="M22,32.744H3.226A3.23,3.23,0,0,0,0,35.97V54.74H1.76a3.817,3.817,0,0,1,3.813-3.813H22A3.23,3.23,0,0,0,25.222,47.7V35.97A3.23,3.23,0,0,0,22,32.744Z" transform="translate(0 -32.744)" fill="#fb5e60"/>
+      <path id="correct" d="M151.2,166.8l-5.6,5.6a.861.861,0,0,1-1.218,0l-2.8-2.8a.861.861,0,1,1,1.218-1.218l2.191,2.191,4.99-4.99A.861.861,0,0,1,151.2,166.8Zm0,0" transform="translate(-134 -160.456)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

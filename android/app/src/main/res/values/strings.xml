@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveOnline</string>
+    <string name="facebook_app_id">441213923648765</string>
+     <string name="facebook_client_token">790a29e58b5ccc6d094ee309af278036</string>
+    <string name="fb_login_protocol_scheme">441213923648765</string>
+    <string name="server_client_id">570940003114-29clqv0v6n551hhvuqh2vgshg1gep7gs.apps.googleusercontent.com</string>
+</resources>

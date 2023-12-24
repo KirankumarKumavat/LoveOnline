@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "570940003114",
+    "project_id": "loveonline-1617867442563",
+    "storage_bucket": "loveonline-1617867442563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570940003114:android:7f40415178f086e0fcc453",
+        "android_client_info": {
+          "package_name": "com.loveonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570940003114-29clqv0v6n551hhvuqh2vgshg1gep7gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeGg9bMfSmxg4vODthWiBR6kJ-bnR4uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570940003114-29clqv0v6n551hhvuqh2vgshg1gep7gs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570940003114-33kt5ql9000k1m5guncfu90uscvdkjjn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loveonline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

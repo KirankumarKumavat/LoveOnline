@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.571" height="17.142" viewBox="0 0 14.571 17.142">
+  <g id="notifications-button" transform="translate(-38.25)">
+    <g id="notifications" transform="translate(38.25)">
+      <path id="Path_2082" data-name="Path 2082" d="M45.535,17.142a1.719,1.719,0,0,0,1.714-1.714H43.821A1.719,1.719,0,0,0,45.535,17.142ZM51.106,12V7.285a5.515,5.515,0,0,0-4.285-5.4v-.6a1.286,1.286,0,1,0-2.571,0v.6a5.515,5.515,0,0,0-4.285,5.4V12L38.25,13.713v.857H52.821v-.857Z" transform="translate(-38.25)" fill="#f26a6b"/>
+    </g>
+  </g>
+</svg>

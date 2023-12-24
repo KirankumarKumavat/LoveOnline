@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <filter id="Ellipse_338" x="0" y="0" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#d8dadb"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Profession" transform="translate(18.233 16)">
+    <g transform="matrix(1, 0, 0, 1, -18.23, -16)" filter="url(#Ellipse_338)">
+      <g id="Ellipse_338-2" data-name="Ellipse 338" transform="translate(10 7)" fill="#fff" stroke="#f26a6b" stroke-width="1">
+        <circle cx="16" cy="16" r="16" stroke="none"/>
+        <circle cx="16" cy="16" r="16.5" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_9296" data-name="Path 9296" d="M14.693,44.67H11.354V44a1.337,1.337,0,0,0-1.336-1.336H6.011A1.337,1.337,0,0,0,4.675,44v.668H1.336A1.337,1.337,0,0,0,0,46.005v8.683a1.337,1.337,0,0,0,1.336,1.336H14.694a1.337,1.337,0,0,0,1.336-1.336V46.005A1.337,1.337,0,0,0,14.693,44.67ZM5.343,44a.669.669,0,0,1,.668-.668h4.007a.669.669,0,0,1,.668.668v.668H5.343ZM15.361,54.688a.669.669,0,0,1-.668.668H1.336a.669.669,0,0,1-.668-.668V49.827a1.321,1.321,0,0,0,.668.186H6.679v1a.334.334,0,0,0,.334.334h2a.334.334,0,0,0,.334-.334v-1h5.343a1.32,1.32,0,0,0,.668-.186v4.861ZM7.347,50.681V49.345H8.683v1.336Zm8.015-2a.669.669,0,0,1-.668.668H9.35v-.334a.334.334,0,0,0-.334-.334h-2a.334.334,0,0,0-.334.334v.334H1.336a.669.669,0,0,1-.668-.668V46.005a.669.669,0,0,1,.668-.668H14.694a.669.669,0,0,1,.668.668Z" transform="translate(0 -42.666)" fill="#f26a6b" stroke="#f26a6b" stroke-width="0.5"/>
+  </g>
+</svg>

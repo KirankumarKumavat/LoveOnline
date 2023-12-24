@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Like-icon" transform="translate(-185 -641)">
+    <rect id="Rectangle_1577" data-name="Rectangle 1577" width="36" height="36" rx="12" transform="translate(185 641)" fill="#fff"/>
+    <g id="heart" transform="translate(190.907 611.409)">
+      <g id="Group_9496" data-name="Group 9496" transform="translate(0 38.362)">
+        <g id="Group_9495" data-name="Group 9495" transform="translate(0 0)">
+          <path id="Path_9265" data-name="Path 9265" d="M22.6,40.409a6.8,6.8,0,0,0-9.669-.055l-.663.663-.664-.664a6.8,6.8,0,0,0-9.614,9.614l8.5,8.5a2.52,2.52,0,0,0,3.56,0l8.442-8.442A6.861,6.861,0,0,0,22.6,40.409Zm-1,8.724-8.442,8.442a1.26,1.26,0,0,1-1.78,0l-8.5-8.5a5.54,5.54,0,1,1,7.834-7.834l.664.664-1.017,1.017a.629.629,0,1,0,.89.89l2.569-2.571a5.539,5.539,0,0,1,7.879.045A5.6,5.6,0,0,1,21.6,49.133Z" transform="translate(0 -38.362)" fill="#f26a6b" stroke="#f26a6b" stroke-width="1.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

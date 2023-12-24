@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="0" width="104" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Apple" transform="translate(-25 -759)">
+    <g transform="matrix(1, 0, 0, 1, 25, 759)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="22" cy="22" r="22" transform="translate(30 27)" fill="#fff"/>
+    </g>
+    <g id="XMLID_228_" transform="translate(41.125 797)">
+      <path id="XMLID_229_" d="M28.676,74.8c-1.606,2.786-.585,7.014,1.191,9.578.886,1.282,1.784,2.432,3.012,2.432h.07a3.72,3.72,0,0,0,1.4-.373A3.828,3.828,0,0,1,36,86.042a3.6,3.6,0,0,1,1.576.38,3.34,3.34,0,0,0,1.51.362c1.384-.026,2.234-1.267,2.984-2.362a10.472,10.472,0,0,0,1.307-2.678l.005-.017a.156.156,0,0,0-.083-.191l-.011,0a3.968,3.968,0,0,1-2.4-3.634,4.085,4.085,0,0,1,1.93-3.415l.015-.009a.156.156,0,0,0,.044-.219,4.492,4.492,0,0,0-3.533-1.919c-.1-.01-.2-.015-.308-.015a6.159,6.159,0,0,0-2.217.554,3.564,3.564,0,0,1-1.062.317,3.475,3.475,0,0,1-1.1-.321,5.324,5.324,0,0,0-1.936-.492h-.049A4.749,4.749,0,0,0,28.676,74.8Z" transform="translate(0 -67.817)"/>
+      <path id="XMLID_230_" d="M153.126,0a4.336,4.336,0,0,0-2.863,1.468,4.063,4.063,0,0,0-1.028,3.012.156.156,0,0,0,.142.135c.066.005.134.008.2.008a3.668,3.668,0,0,0,2.7-1.386,4.283,4.283,0,0,0,1.007-3.1A.157.157,0,0,0,153.126,0Z" transform="translate(-113.78 0)"/>
+    </g>
+  </g>
+</svg>

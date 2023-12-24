@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.266" height="140.723" viewBox="0 0 156.266 140.723">
+  <defs>
+    <filter id="Rectangle_4" x="18" y="0" width="138.266" height="138.266" filterUnits="userSpaceOnUse">
+      <feOffset dx="20" dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ce60ef"/>
+      <stop offset="1" stop-color="#5f50ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Kulan-logo" transform="translate(-126 -89.271)">
+    <g id="Group_23" data-name="Group 23" transform="translate(-161 -460)">
+      <g id="Group_21" data-name="Group 21" transform="translate(-10.824 79)">
+        <path id="Path_46" data-name="Path 46" d="M323.479,610.342H313.7l-7.826-10.327v10.327h-8.045V571.154h8.045v20.925l5.435-7.12h10.109l-9.566,11.251Z" fill="#fff"/>
+        <path id="Path_47" data-name="Path 47" d="M343.319,584.959h8.044v25.383h-8.044v-4.349c-.87,3.533-4.946,5-7.283,5-6.74,0-10.056-4.565-10.056-12.338v-13.7h8.045v13.208c0,3.913,2.337,5.381,4.4,5.381,2.12,0,4.892-1.142,4.892-5.381Z" fill="#fff"/>
+        <path id="Path_48" data-name="Path 48" d="M358.105,610.342V571.154h8.044v39.188Z" fill="#fff"/>
+        <path id="Path_49" data-name="Path 49" d="M391.641,584.959h8.044v25.383h-8.044v-3.207a10.026,10.026,0,0,1-8.044,3.859c-7.12,0-12.12-5.381-12.12-13.316,0-7.99,5-13.371,12.229-13.371a9.988,9.988,0,0,1,7.935,3.7Zm-.271,12.719a5.858,5.858,0,0,0-5.87-5.925,5.745,5.745,0,0,0-5.816,5.925,5.81,5.81,0,0,0,5.87,5.87A5.9,5.9,0,0,0,391.37,597.678Z" fill="#fff"/>
+        <path id="Path_50" data-name="Path 50" d="M431.81,596.7v13.643h-8.044V597.188c0-3.913-2.392-5.435-4.4-5.435-2.174,0-4.891,1.142-4.891,5.381v13.208h-8.045V584.959h8.045v4.565c.869-3.586,4.891-5.217,7.283-5.217C428.494,584.307,431.81,588.927,431.81,596.7Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_9538" data-name="Group 9538" transform="translate(-610.746 -7.597)">
+      <g transform="matrix(1, 0, 0, 1, 736.75, 96.87)" filter="url(#Rectangle_4)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="78.266" height="78.266" rx="20" transform="translate(28 10)" fill="#fff"/>
+      </g>
+      <path id="Path_35" data-name="Path 35" d="M815.96,195.212a11.374,11.374,0,0,1-11.374-11.374V149.717a11.374,11.374,0,0,1,22.748,0v34.121A11.374,11.374,0,0,1,815.96,195.212Z" transform="translate(-26.299 -20.777)" fill="#111042"/>
+      <path id="Path_36" data-name="Path 36" d="M857.334,195.212a11.338,11.338,0,0,1-8.043-3.331l-25.1-25.1,25.1-25.1a11.374,11.374,0,1,1,16.085,16.085l-9.018,9.018,9.018,9.018a11.374,11.374,0,0,1-8.043,19.416Z" transform="translate(-39.238 -20.777)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
